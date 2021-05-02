@@ -1,5 +1,8 @@
-# NLP_EXAMPLE
-关于nlp方向的简单demo
+# 介绍
+关于nlp方向的简单学习
+
+## 哈哈
+短文本数据集被收录到这了： https://www.cluebenchmarks.com/
 
 # 项目类别
 - 文本分类
